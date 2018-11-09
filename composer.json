@@ -1,5 +1,5 @@
 {
-    "name": "jossmp/datos-peru",
+    "name": "acqrdeveloper/datos-peru",
     "description": "Clase para realizar consultas a reniec, essalud, ministrio del trabajo con el numero de DNI",
     "type": "library",
     "keywords": ["Reniec", "EsSalud", "Mintra", "Peru", "PHP", "Consulta", "cURL"],
